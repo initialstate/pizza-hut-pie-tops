@@ -12,12 +12,4 @@ Pizza Hut recently came out with a hilarious commercial about awesome shoes that
 
 Those shoes are real, and really do order pizza, but (unfortunately for everyone) they only made 64 pairs.
 
-I know that not having access to Pie Tops made you sad because it made me sad. It made me so sad that I decided that I just couldn't live without pizza shoes. So I made some.
-
-Behold! The DIY Pie Tops:
-
-<p align="center">
-<img width="60%" src="https://user-images.githubusercontent.com/10930201/44050079-82b29772-9efb-11e8-8c12-38e328583f10.gif">
-</p>
-
-[Read more...](https://github.com/initialstate/pizza-hut-pie-tops/wiki)
+I know that not having access to Pie Tops made you sad because it made me sad. It made me so sad that I decided that I just couldn't live without pizza shoes. So I made some. [Read more...](https://github.com/initialstate/pizza-hut-pie-tops/wiki)
